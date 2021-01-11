@@ -1,11 +1,16 @@
 _repo: Into-the-Frozen-South_64196
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64196-h/images/cover.jpg
 creator:
   author:
     agent_name: Marr, James
     gutenberg_agent_id: '52790'
     url: http://www.gutenberg.org/2009/agents/52790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64196#Into-the-Frozen-South
 gutenberg_issued: '2021-01-01'
 gutenberg_type: Text
 identifiers:
